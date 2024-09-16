@@ -6,5 +6,5 @@ source env/bin/activate  
 //generate requirements.txt pip install pipreqs
 pipreqs /path/to/project pip3 freeze > requirements.txt
 
-<img src="Snake Game demo.png">
+<img src="Snake Game demo.png" width="400px">
 
